@@ -1,0 +1,1 @@
+All the Django packages run with python 3.6.6 version, requirements.txt modules are compatiable with python version.
